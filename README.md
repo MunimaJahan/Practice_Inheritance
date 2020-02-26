@@ -27,6 +27,18 @@ You also have a **Main** class that demonstrate the use of the **Qustion**.
 - A method **display()** that overrides the display method of the super class to display the MCQ question properly with choices.
 - Rewrite the **Main** class to display a MCQ question and take a response from keyboard for the answer as the choice (1,2 ..)
 - Display if the answer is correct or not.
+- The screen may look like:
+```
+In which country was the inventor of Java born?
+1: Canada
+2: United States
+3: Denmark
+4: United State
+Your answer: 1
+true
+
+```
+
 ## Task 3
 - Create a new class called **Quiz** that will store a list of questions.
 - Add a method called **addQuestion(Question Q)** that can add any type of question in the list.
